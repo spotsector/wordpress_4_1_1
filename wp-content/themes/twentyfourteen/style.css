@@ -881,7 +881,7 @@ span + .edit-link:before,
 /* Search in the header */
 
 .search-toggle {
-	background-color: #24890d;
+	background-color: #235482;
 	cursor: pointer;
 	float: right;
 	height: 48px;
